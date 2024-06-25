@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://developer.huawei.com/images/activity/harmonyos-beta-test/banner-pc0613.jpg)
 
 <!--
 **nextcj/nextcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
