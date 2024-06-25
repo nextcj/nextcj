@@ -1,38 +1,28 @@
 ---
-title: 223娱乐屏软件升级教程说明
+title: APP 软件升级说明
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+检查是否有新版本可以升级，请按照以下图片步骤进行操作。
 
-## Quick Start
+### 1. 进入 [设定] 菜单
 
-### Create a new post
+![](https://wx1.sinaimg.cn/mw2000/a53846c3gy1hr1wb2kntzj218g12wx16.jpg)
 
-``` bash
-$ hexo new "My New Post"
-```
+### 2. 点击 App 版本，会检查是否有新版本，如果有新版本会弹出确认窗口，选择 [确定]
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+![](https://wx2.sinaimg.cn/mw2000/a53846c3gy1hr1vwsauybj218g12wgqp.jpg)
 
-### Run server
+![](https://wx3.sinaimg.cn/mw2000/a53846c3gy1hr1vwsagrmj218g12wads.jpg)
 
-``` bash
-$ hexo server
-```
+### 3. 确定升级，弹出下载窗口，等待下载进度完成 100 %
 
-More info: [Server](https://hexo.io/docs/server.html)
+![](https://wx2.sinaimg.cn/mw2000/a53846c3gy1hr1vwsc3cfj218g12wtnh.jpg)
 
-### Generate static files
+### 4. 下载完成，会弹出安装窗口，选择 [更新]，选择后安装成功，选择 [打开]
 
-``` bash
-$ hexo generate
-```
+![](https://wx4.sinaimg.cn/mw2000/a53846c3gy1hr1vwsqv88j218g12wjuh.jpg)
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+### 5. 最后，覆盖安装新版本后，会提示重启设备，选择 [重启设备]，至此更新完毕。
 
-### Deploy to remote sites
+![](https://wx1.sinaimg.cn/mw2000/a53846c3gy1hr1vwsct1yj218g12w445.jpg)
 
-``` bash
-$ hexo deploy
-```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
