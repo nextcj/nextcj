@@ -1,0 +1,60 @@
+# 菜单栏
+menu:
+  - name: 首页
+    url: /
+  - name: 技术选型
+    url: /tech-lectotype/
+  - name: 我的简历
+    url: /resume/
+
+comment:
+  enable: false
+  type: # waline | giscus
+
+# Waline https://waline.js.org/
+waline:
+  serverURL:
+  options:
+
+# Giscus https://giscus.app/zh-CN
+giscus:
+  repo:
+  repoid:
+  category:
+  categoryid:
+  mapping:
+  term:
+  reactionsenabled:
+  emitmetadata:
+  inputposition:
+  loading:
+
+search:
+  enable: false
+  type: # algolia
+
+# Docsearch https://docsearch.algolia.com/apply/
+algolia:
+  appId: 
+  apiKey: 
+  indexName: 
+
+# 友链模块
+friends:
+  # - name: xxx's blog
+  #   avatar: https://xx.png
+  #   link: https://blog.xxx.com
+  #   desc: xxx
+
+footer:
+  builtUpTime: # 2020-05-20 13:14:00
+
+# 社交链接
+socialLink:
+  # - name: Email
+  #   link: mailto:xx@xx.com
+  # - name: RSS
+  #   link: rss link
+
+# 主题色
+primaryColor: '#10b981'
