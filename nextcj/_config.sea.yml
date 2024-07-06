@@ -1,11 +1,17 @@
 # 菜单栏
 menu:
-  - name: 首页
-    url: /
-  - name: 技术选型
-    url: /tech-lectotype/
   - name: 我的简历
     url: /resume/
+  - name: ｜
+    url: /
+  - name: 技术选型
+    url: /categories/技术选型/
+  - name: FinClip
+    url: /tags/FinClip/
+  - name: ｜
+    url: /
+  - name: 标签
+    url: /tags/
 
 comment:
   enable: false
@@ -35,26 +41,26 @@ search:
 
 # Docsearch https://docsearch.algolia.com/apply/
 algolia:
-  appId: 
-  apiKey: 
-  indexName: 
+  appId:
+  apiKey:
+  indexName:
 
 # 友链模块
 friends:
-  # - name: xxx's blog
-  #   avatar: https://xx.png
-  #   link: https://blog.xxx.com
-  #   desc: xxx
+# - name: xxx's blog
+#   avatar: https://xx.png
+#   link: https://blog.xxx.com
+#   desc: xxx
 
 footer:
   builtUpTime: # 2020-05-20 13:14:00
 
 # 社交链接
 socialLink:
-  # - name: Email
-  #   link: mailto:xx@xx.com
-  # - name: RSS
-  #   link: rss link
+# - name: Email
+#   link: mailto:xx@xx.com
+# - name: RSS
+#   link: rss link
 
 # 主题色
 primaryColor: '#10b981'
