@@ -2,3 +2,4 @@
 .DS_Store
 /.idea
 nextcj/db.json
+nextcj/.deploy_git/
