@@ -1,14 +1,14 @@
 # 菜单栏
 menu:
-  - name: 🔭简历
+  - name: 🔭 简历
     url: /resume/
-  - name: 📑归档
+  - name: 📑 归档
     url: /categories/
-  - name: 📑标签
+  - name: 📑 标签
     url: /tags/
-  - name: ✒️技术选型
+  - name: ✒️ 技术选型
     url: /categories/技术选型/
-  - name: ✒️FinClip
+  - name: ✒️ FinClip
     url: /tags/FinClip/
 
 comment:
