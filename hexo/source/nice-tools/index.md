@@ -43,3 +43,7 @@ Stirling-PDF 是一个强大的本地托管的基于网络的 PDF 操作工具�
 
 👉 [Public APIs 开源 GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 👉 [Public APIs](https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruwQGgiae3rhicVZtIRS2KpJibwy4J92OSqQ0icu9niaNUF9FR0ttSY54lxxyAe0tvW5pREElV4VayEGaTQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+---
+
+常用颜色取值：<font color=#66CD00>淡绿色 - #66CD00</font> <font color=#A3CAEB>淡蓝色 - #A3CAEB</font> 
