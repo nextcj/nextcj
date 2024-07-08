@@ -1,8 +1,8 @@
 ---
-title: 技术选型调研 - uniApp
+title: 技术选型调研 - uniapp
 date: 2024-07-06 17:28:53
 categories: [ '技术选型' ]
-tags: [ '跨场景','App','多端','FinClip' ]
+tags: [ 'App','多端','uniapp' ]
 ---
 
 https://www.zhihu.com/question/507685904/answer/2342030900

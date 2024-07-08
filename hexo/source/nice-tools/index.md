@@ -28,3 +28,18 @@ Stirling-PDF 是一个强大的本地托管的基于网络的 PDF 操作工具�
 
 👉 [Stirling-PDF 开源 GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 👉 [Stirling-PDF 官网](https://stirlingtools.com/)
+
+## <font color=#A3CAEB>4. 开放 API 收集宝库</font> - `Public APIs`
+
+为开发者和创业者提供一个集中的平台，让他们能够轻松地发现和使用成千上万免费的各种公共 API。
+
+涵盖了多个领域的 API，提供了详细的 API 描述、调用方式以及是否需要认证等信息。分类包括 动物、动漫、艺术与设计、认证与授权、区块链、商业、货币兑换、社交。一些热门的 API 包括：
+
+* HTTP Cat：为每个 HTTP 状态提供猫的图片。
+* SportMonks Football：提供足球比分、赛程、新闻等 API。
+* Google Maps：基于 Google Maps 数据创建 / 定制数字地图。
+* Notion：与 Notion 集成。
+* Plaid：连接用户银行账户并访问交易数据。
+
+👉 [Public APIs 开源 GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+👉 [Public APIs](https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruwQGgiae3rhicVZtIRS2KpJibwy4J92OSqQ0icu9niaNUF9FR0ttSY54lxxyAe0tvW5pREElV4VayEGaTQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
