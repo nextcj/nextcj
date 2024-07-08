@@ -4,12 +4,14 @@ menu:
     url: /resume/
   - name: 📑 归档
     url: /categories/
-  - name: 📑 标签
+  - name: 🌱 标签
     url: /tags/
-  - name: ✒️ 技术选型
+  - name: 🍁 高效工具
+    url: /nice-tools/
+  - name: 🌿 技术选型
     url: /categories/技术选型/
-  - name: ✒️ FinClip
-    url: /tags/FinClip/
+  - name: 🌾 GitHub
+    url: https://github.com/nextcj
 
 comment:
   enable: false
