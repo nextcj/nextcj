@@ -1,8 +1,8 @@
 ---
-title: 技术选型调研 - FinClip / Unisdk
+title: 技术选型调研 - FinClip / UniSDK
 date: 2024-07-06 17:28:53
 categories: [ '技术选型' ]
-tags: [ '多端','FinClip','Unisdk' ]
+tags: [ '多端','FinClip','UniSDK' ]
 ---
 
 开发微信小程序 → 将微信小程序迁移到自有 App 中 → 某些应用小程序暂时不上架微信，但也需要具备统一的语法与框架，学习与迁移成本不应太高。
@@ -11,7 +11,7 @@ tags: [ '多端','FinClip','Unisdk' ]
 
 ## <font color=#A3CAEB># FinClip</font>
 
-### <font color=#A3CAEB>FinClip 核心</font>
+### <font color=#A3CAEB>## FinClip 核心</font>
 
 FinClip 的核心是提供一个小程序容器技术，让 App 拥有运行小程序的能力，从而实现跨平台：
 
@@ -21,9 +21,9 @@ FinClip 的核心是提供一个小程序容器技术，让 App 拥有运行小�
 
 3、极大的优化了工作效率和产品迭代的效率，多系统、多框架的支持为公司大大节约了跨平台开发的成本。
 
-### <font color=#A3CAEB>FinClip 技术平台</font>
+### <font color=#A3CAEB>## FinClip 技术平台</font>
 
-FinClip 提供多系框架、多系统支持与开发管理的能力：
+FinClip 提供多系统框架、多系统支持与开发管理的能力：
 
 1、FinClip 小程序 SDK 支持纯 WXML 微信小程序运行，也支持包括 uniapp、Taro、kbone 第三方框架集成的小程序。
 
@@ -51,12 +51,12 @@ https://www.163.com/dy/article/J393B6UN0511B8LM.html
 
 https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=FinClip%20%E5%BC%80%E5%8F%91%E7%9A%84%E5%85%AC%E5%8F%B8%E6%9C%89%E5%93%AA%E4%BA%9B&fenlei=256&oq=Fin%2526lt%253Blip&rsv_pq=ae9adb190005e6ee&rsv_t=f9f0RqKlS0VbcWzMgYHsd%2Fpfo6X1gJiuGrXBaW%2F%2F1qB8866d5wLi3q7FUr0&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=19451&rsv_sug3=43&rsv_sug1=36&rsv_sug7=100&rsv_sug2=0&rsv_sug4=20729
 
-## <font color=#A3CAEB># Unisdk</font>
+## <font color=#A3CAEB># UniSDK</font>
 
-Uni-app 也是小程序 SDK，是为原生 App 打造的可运行基于 uni-app 开发的小程序前端项目的框架，从而帮助原生 App 快速获取小程序的能力。
-uni 小程序 SDK 是原生 SDK，提供 Android 版本和 iOS 版本，需要在原生工程中集成，然后即可运行用 uni-app 框架开发的小程序前端项目。
+UniSDK 也是小程序 SDK，是为原生 App 打造的可运行基于 uni-app 开发的小程序前端项目的框架，从而帮助原生 App 快速获取小程序的能力。
+uni 小程序 SDK 是原生 SDK，提供 Android 版本和 iOS 版本，需要在原生工程中集成，然后即可运行 uni-app 框架开发的小程序前端项目。
 
-UniSDK 和 FinClip 类似，提供小程序 SDK 供 App 集成，宿主 App 集成其SDK 之后就拥有了运维用 uni-app 开发的小程序的能力，但是 uni 小程序 SDK 这里没有提供管理端，只提供了 SDK。
+UniSDK 和 FinClip 类似，提供小程序 SDK 供 App 集成，宿主 App 集成其 SDK 之后就拥有了运用 uni-app 开发的小程序的能力，但是 uni 小程序 SDK 这里没有提供管理端，只提供了 SDK。
 
 
 
