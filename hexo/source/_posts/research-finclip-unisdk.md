@@ -13,7 +13,7 @@ tags: [ '多端','FinClip','UniSDK' ]
 
 ### <font color=#A3CAEB>## FinClip 核心</font>
 
-FinClip 的核心是提供一个小程序容器技术，让 App 拥有运行小程序的能力，从而实现跨平台：
+FinClip 的核心是提供一个小程序容器技术，企业 App 通过集成 FinClip 小程序运行时 SDK，即可将微信小程序上架至自身 APP，让 App 拥有运行小程序的能力，从而实现跨平台：
 
 1、使用 FinClip，可以在自己的 App 中打造与微信小程序类似的生态，FinClip 提供了小程序容器技术，就够将小程序运行环境集成到 App，从而让 App 具备小程序运行的能力。
 
@@ -29,7 +29,9 @@ FinClip 提供多系统框架、多系统支持与开发管理的能力：
 
 2、FinClip 小程序 SDK 同时提供 HarmonyOS、Android、iOS、Flutter、ReactNative、Windows 等多种环境。
 
-3、拥有完善的管理平台，小程序开发、测试、上下架、App 集成与联调等流程。
+3、FinClip Studio 工具，支持小程序在线编译，同时支持小程序生成 APP，可以将已有小程序代码导出为 iOS 和 Android 中可用的工程文件。
+
+4、拥有完善的管理平台，小程序开发、测试、上下架、App 集成与联调等流程。
 
 FinClip SDK 是一个能运行小程序的安全沙箱，通过嵌入 SDK 的形态让移动端软件、PC 端软件与物联网设备软件的宿主环境集成小程序容器。
 FinClip 管理后台可以理解成一个应用商店，提供应用的发现（陈列、搜索与推荐）机制、上下架与灰度发布的管理后台。
@@ -38,10 +40,6 @@ FinClip 管理后台可以理解成一个应用商店，提供应用的发现（
 
 总之，FinClip 将 “小程序运行时” 实现成一个可私有化部署的 HarmonyOS、iOS 和 Android 的 SDK，可以被第三方集成。任何 APP 嵌入 FinClip SDK 即可获得运行小程序的能力。
 FinClip SDK 采用多进程机制实现，每个小程序运行在独立的进程中，即一个小程序对应一个进程。
-
-https://www.zhihu.com/search?type=content&q=Finclip%20%E4%B8%8E%20uniapp%20%E7%9A%84%E5%8C%BA%E5%88%AB
-
-https://www.finclip.com/landpage-common/
 
 https://www.finclip.com/landpage-car/
 
