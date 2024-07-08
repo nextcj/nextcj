@@ -1,6 +1,6 @@
 
 .DS_Store
 /.idea
-nextcj/db.json
-nextcj/.deploy_git/
-/nextcj/public
+hexo/db.json
+hexo/.deploy_git/
+/hexo/public
