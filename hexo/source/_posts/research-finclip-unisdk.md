@@ -41,6 +41,8 @@ FinClip 管理后台可以理解成一个应用商店，提供应用的发现（
 总之，FinClip 将 “小程序运行时” 实现成一个可私有化部署的 HarmonyOS、iOS 和 Android 的 SDK，可以被第三方集成。任何 APP 嵌入 FinClip SDK 即可获得运行小程序的能力。
 FinClip SDK 采用多进程机制实现，每个小程序运行在独立的进程中，即一个小程序对应一个进程。
 
+[参考文章](https://www.finclip.com/blog/privatizing-browsers/)
+
 https://www.finclip.com/landpage-car/
 
 https://www.finclip.com/solutions/car/
