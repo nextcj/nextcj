@@ -1,5 +1,5 @@
 ---
-title: 求职：FinClip 跨平台 App 开发
+title: 求职：多平台移动 App 开发
 date: 2024-07-06 17:22:42
 ---
 
