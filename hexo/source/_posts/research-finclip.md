@@ -100,6 +100,8 @@ FinClip 具备相应的保护机制，确保网络通信安全可靠，采取加
 
 👉 [视频介绍](https://public-1251849568.cos.ap-guangzhou.myqcloud.com/homeSite/video/car.mp4)
 
+👉 [FinClip 官方网站](https://www.finclip.com/)
+
 ## <font color=#A3CAEB># 类似的技术：UniSDK</font>
 
 UniSDK 也是小程序 SDK，是为原生 App 打造的可运行基于 uni-app 开发的小程序前端项目的框架，从而帮助原生 App 快速获取小程序的能力。
