@@ -2,7 +2,7 @@
 title: FinClip 3.0 适配鸿蒙 Next
 date: 2024-05-09 10:10:14
 categories: [ '技术选型' ]
-tags: [ '鸿蒙', 'FinClip' ]
+tags: [ '技术选型', 'FinClip' ]
 ---
 
 FinClip 3.0 鸿蒙版 SDK，适配 HarmonyOS NEXT 原生开发，可实现小程序反向生成鸿蒙 App，快速迁移至鸿蒙系统。目前 FinClip Harmony SDK 也已经在鸿蒙生态市场上架。

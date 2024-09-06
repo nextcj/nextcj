@@ -1,17 +1,22 @@
 # 菜单栏
 menu:
-  - name: 🔭 简历
-    url: /resume/
-  - name: 📑 归档
-    url: /categories/
-  - name: 🌱 标签
+
+  - name: 🌐 跨境电商
+    url: /categories/跨境电商/
+  - name: 🌿 养老行业
+    url: /categories/养老行业/
+  - name: 🌾 汽车配件
+    url: /categories/汽配行业/
+  - name: 🍁 所有标签
     url: /tags/
-  - name: 🍁 高效工具
-    url: /nice-tools/
-  - name: 🌿 技术选型
-    url: /categories/技术选型/
-  - name: 🌾 GitHub
-    url: https://github.com/nextcj
+  #  - name: 🔭 简历
+  #    url: /resume/
+#  - name: 🍁 高效工具
+#    url: /nice-tools/
+#  - name: 🌿 技术选型
+#    url: /categories/技术选型/
+#  - name: 🌾 GitHub
+#    url: https://github.com/nextcj
 
 comment:
   enable: false
