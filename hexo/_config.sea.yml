@@ -5,12 +5,12 @@ menu:
     url: /categories/跨境电商/
   - name: 🌿 养老行业
     url: /categories/养老行业/
-  - name: 🌾 汽车配件
-    url: /categories/汽配行业/
+  - name: 🌾 开源项目
+    url: /github/
   - name: 🍁 所有标签
     url: /tags/
-  #  - name: 🔭 简历
-  #    url: /resume/
+#  - name: 🔭 简历
+#    url: /resume/
 #  - name: 🍁 高效工具
 #    url: /nice-tools/
 #  - name: 🌿 技术选型
