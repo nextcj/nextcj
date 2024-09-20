@@ -16,3 +16,8 @@ date: 2024-09-20 09:23:58
 * [Handler 都没搞懂，拿什么去跳槽啊？](https://juejin.cn/post/6844903783139393550)
 * [Android Handler 消息机制（解惑篇）](https://juejin.cn/post/6844903446571663374)
 * [Android 消息机制 郭神的文章](https://blog.csdn.net/guolin_blog/article/details/9991569)
+
+## 其他目录
+
+| [高效工具](../tools/) | [开源项目](../github/) | [面试准备](../interview/) | [简历草稿](../resume/) |
+|-------------------|--------------------|-----------------------|--------------------|
