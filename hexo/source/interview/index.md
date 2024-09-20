@@ -15,4 +15,4 @@ date: 2024-09-20 09:23:58
 * [Android消息机制的原理及源码解析 源码角度完整解析](https://www.jianshu.com/p/f10cff5b4c25)
 * [Handler 都没搞懂，拿什么去跳槽啊？](https://juejin.cn/post/6844903783139393550)
 * [Android Handler 消息机制（解惑篇）](https://juejin.cn/post/6844903446571663374)
-* [Android 消息机制 郭神的文章]()
+* [Android 消息机制 郭神的文章](https://blog.csdn.net/guolin_blog/article/details/9991569)
