@@ -1,12 +1,10 @@
 # 菜单栏
 menu:
-  - name: 🌐 跨境电商
-    url: /categories/跨境电商/
-  - name: 👛 香皂行业
-    url: /categories/香皂行业/
-  - name: 🌿 视频剪辑
-    url: /categories/视频剪辑/
-  - name: 🌾 目录
+  - name: 🌐 Web3.0
+    url: /categories/web3/
+  - name: 🌾 Rust
+    url: /categories/rust/
+  - name: 🌿 其他
     url: /catalog/
   - name: 🍁 所有标签
     url: /tags/
