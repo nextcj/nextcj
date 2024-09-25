@@ -111,6 +111,7 @@ NFT dApps 使得创建，购买和交易独一无二、不可分割的数字资�
 
 本文参考学习的文章：
 
-- https://brave.com/zh/web3/what-are-dapps/
-- [什么是 DApp？它们有哪些用途？](https://www.bitcoin.com/zh/get-started/what-is-a-dApp/)
+- [什么是 DApp？它们有哪些用途？](https://brave.com/zh/web3/what-are-dapps/)
+- [什么是 DApp？](https://www.bitcoin.com/zh/get-started/what-is-a-dApp/)
 - [DAPP到底是什么？看完这篇你就明白](https://medium.com/@radiant_sinopia_crab_580/dapp%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88-%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87%E4%BD%A0%E5%B0%B1%E6%98%8E%E7%99%BD-a7e5ca485926)
+- [從3個方向理解DApp，我也能自行開發嗎?](https://cryptowesearch.com/blog/all/dapp-intro)
