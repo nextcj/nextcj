@@ -1,9 +1,9 @@
 # 菜单栏
 menu:
   - name: 🌐 Web3.0
-    url: /categories/web3/
+    url: /categories/Web3/
   - name: 🌾 Rust
-    url: /categories/rust/
+    url: /categories/Rust/
   - name: 🌿 其他
     url: /catalog/
   - name: 🍁 所有标签
