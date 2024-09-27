@@ -1,6 +1,6 @@
 ---
 title: Rust初步了解
-date: 2024-09-23 09:10:12
+date: 2024-09-24 09:10:12
 categories: [ 'Rust' ]
 ---
 
