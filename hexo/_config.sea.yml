@@ -2,6 +2,8 @@
 menu:
   - name: 🌐 Web3.0
     url: /categories/Web3/
+  - name: 🔭 Solana
+    url: /categories/Solana/
   - name: 🌾 Rust
     url: /categories/Rust/
   - name: 🌿 其他

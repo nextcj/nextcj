@@ -1,5 +1,5 @@
 ---
-title: Web3 - Decentralized Application
+title: Web3 - DApp
 date: 2024-09-23 09:10:12
 categories: [ 'Web3' ]
 tags: [ 'DApp','区块链' ]

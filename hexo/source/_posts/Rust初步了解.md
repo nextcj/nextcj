@@ -1,5 +1,5 @@
 ---
-title: Rust初步了解
+title: Rust了解
 date: 2024-09-24 09:10:12
 categories: [ 'Rust' ]
 ---
