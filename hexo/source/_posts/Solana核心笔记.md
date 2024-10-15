@@ -11,10 +11,8 @@ categories: [ 'Solana' ]
 > - [Solana 验证器文档 - Solana Validator/](https://www.solana-cn.com/SolanaValidatorDocumentation/home.html)
 > - [Solana Labs Docs - https://docs.solanalabs.com](https://docs.solanalabs.com)
 
-> Solana/Anchor 工具资源：
+> Solana 工具资源：
 > - [Solana CLI 工具套件下载镜像 - sourceforge.net](https://sourceforge.net/projects/solana.mirror/)
-> - [Install avm using Cargo. ] `~ % cargo install --git https://github.com/coral-xyz/anchor avm --locked --force`
-> - [avm install latest fails？] `~ % cargo install --git https://github.com/coral-xyz/anchor --tag v0.30.1 anchor-cli --force`
 
 > Solana 通过代币账户来保存代币，相比的以太坊智能合约的账本型合约有着本质的不同。
 > 非同质化代币在 Solana 中的定义：精度为0的代币都属于非同质化的代币。

@@ -5,6 +5,10 @@ categories: [ 'Solana' ]
 tags: [ 'Anchor' ]
 ---
 
+> Anchor 工具资源：
+> - [Install avm using Cargo. ] `~ % cargo install --git https://github.com/coral-xyz/anchor avm --locked --force`
+> - [avm install latest fails？] `~ % cargo install --git https://github.com/coral-xyz/anchor --tag v0.30.1 anchor-cli --force`
+
 > Last login: Wed Oct 16 00:29:07 on ttys000
 hf@BENZCAR projects % anchor --version
 anchor-cli 0.30.1
