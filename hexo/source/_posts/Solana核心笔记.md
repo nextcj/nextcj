@@ -11,8 +11,10 @@ categories: [ 'Solana' ]
 > - [Solana 验证器文档 - Solana Validator/](https://www.solana-cn.com/SolanaValidatorDocumentation/home.html)
 > - [Solana Labs Docs - https://docs.solanalabs.com](https://docs.solanalabs.com)
 
-> Solana 资源网站：
+> Solana/Anchor 工具资源：
 > - [Solana CLI 工具套件下载镜像 - sourceforge.net](https://sourceforge.net/projects/solana.mirror/)
+> - [Install avm using Cargo. ] `~ % cargo install --git https://github.com/coral-xyz/anchor avm --locked --force`
+> - [avm install latest fails？] `~ % cargo install --git https://github.com/coral-xyz/anchor --tag v0.30.1 anchor-cli --force`
 
 > 验证者是一台帮助运行 Solana 网络的计算机。
 > 每个验证者都会执行一个程序来跟踪 Solana 集群上的所有账户，并验证添加到网络的交易。
@@ -29,8 +31,8 @@ categories: [ 'Solana' ]
 > 程序账户，用来存储可执行程序
 > 原生账户，指Solana上的原生程序，例如 System, Stake, Vote 等
 
-> Installed by Homebrew package manager on Mac
 
-```shell
-
-```
+> 参考网址：
+> https://solana.stackexchange.com/questions/16241/avm-install-latest-fails
+> https://www.anchor-lang.com/docs/installation#anchor
+> https://github.com/coral-xyz/anchor/releases
