@@ -1,5 +1,5 @@
 ---
-title: Rust笔记
+title: Rust核心笔记
 date: 2024-09-25 09:10:12
 categories: [ 'Rust' ]
 ---
