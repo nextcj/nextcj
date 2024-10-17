@@ -1,5 +1,5 @@
 ---
-title: Anchor 核心笔记
+title: Anchor核心笔记
 date: 2024-10-02 09:14:12
 categories: [ 'Solana' ]
 tags: [ 'Anchor' ]
