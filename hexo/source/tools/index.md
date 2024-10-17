@@ -46,9 +46,4 @@ Stirling-PDF 是一个强大的本地托管的基于网络的 PDF 操作工具�
 
 ---
 
-常用颜色取值：<font color=#66CD00>淡绿色 - #66CD00</font> <font color=#A3CAEB>淡蓝色 - #A3CAEB</font> 
-
-## 其他目录
-
-| [高效工具](../tools/) | [开源项目](../github/) | [面试准备](../interview/) | [简历草稿](../resume/) |
-|-------------------|--------------------|-----------------------|--------------------|
+常用颜色取值：<font color=#66CD00>淡绿色 - #66CD00</font> <font color=#A3CAEB>淡蓝色 - #A3CAEB</font>
