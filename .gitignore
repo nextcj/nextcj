@@ -4,3 +4,4 @@
 hexo/db.json
 hexo/.deploy_git/
 /hexo/public
+/hexo/.idea
