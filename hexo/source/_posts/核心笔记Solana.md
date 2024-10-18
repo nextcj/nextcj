@@ -117,6 +117,9 @@ categories: [ 'Solana' ]
 > 每个验证者都会执行一个程序来跟踪 Solana 集群上的所有账户，并验证添加到网络的交易。
 > 没有验证者，Solana 将无法运行。
 
+> 客户端 DApp 和链上程序的粘合剂是 Solana JSON RPC API 。
+> 客户端向 Solana 网络发送 RPC 请求，与链上程序进行交互。与前端和后端之间的正常开发非常相似。 与在 Solana 上工作的主要区别在于后端是一个全局无需许可的区块链。
+
 > 参考网址 >
 > https://solana.stackexchange.com/questions/16241/avm-install-latest-fails
 > https://www.anchor-lang.com/docs/installation#anchor
