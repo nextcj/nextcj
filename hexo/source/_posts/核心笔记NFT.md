@@ -1,8 +1,7 @@
 ---
 title: NFT核心笔记
 date: 2024-10-03 09:14:12
-categories: [ 'Solana' ]
-tags: [ 'Anchor' ]
+tags: [ 'Web3.0' ]
 ---
 
 > Non-fungible 不可替代

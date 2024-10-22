@@ -1,7 +1,7 @@
 # 菜单栏
 menu:
-  - name: 🌐 Web3.0
-    url: /categories/Web3/
+  - name: 🌐 Shopify
+    url: /categories/Shopify/
   - name: 🔭 Solana
     url: /categories/Solana/
   - name: 🌾 Rust

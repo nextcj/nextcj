@@ -1,8 +1,8 @@
 ---
 title: 跨境独立站 - 了解 Shopify
 date: 2024-04-12 09:10:12
-categories: [ '跨境电商' ]
-tags: [ '独立站','Shopify' ]
+categories: [ 'Shopify' ]
+tags: [ '独立站']
 ---
 
 ## 一、定价

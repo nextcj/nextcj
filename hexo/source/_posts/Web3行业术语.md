@@ -1,8 +1,7 @@
 ---
 title: Web3 - 行业术语
 date: 2024-09-23 10:10:12
-categories: [ 'Web3' ]
-tags: [ '区块链' ]
+tags: ['Web3.0']
 ---
 
 大饼、冰糖橙 - BTC
