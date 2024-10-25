@@ -1,6 +1,6 @@
 ---
-title: Shopify电商清单
-date: 2024-10-22 21:29:46
+title: Shopify电商上线清单
+date: 2024-10-23 21:29:46
 categories: [ 'Shopify' ]
 tags: [ '电商' ]
 ---
