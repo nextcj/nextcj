@@ -1,8 +1,7 @@
 ---
 title: Shopify店铺装修实践记录
 date: 2024-10-21 00:37:12
-categories:
-tags:
+categories: [ 'Shopify' ]
 ---
 
 How To Remove Collection Title In Shopify
