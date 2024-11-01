@@ -31,9 +31,9 @@ date: 2024-10-06 17:22:42
 
 ### 个人的跨境电商网站
 
-电商网址：https://nextcj.github.io/ 基于 Shopify 建站
+电商网址：https://nftrug.myshopify.com/ 基于 Shopify 建站
 
-1. 基于 Web2.0 的 POD 模式跨境独立站 - 网站 1.0 版（已完成）
+1. 基于 Web2.0 的 POD 模式跨境独立站 - 网站 1.0 版（准备上线）
 2. 基于 Web3.0 区块链网络的 DApp - 网站 2.0 版（计划中）
 
 ## <font color=#A3CAEB>技能掌握</font>
